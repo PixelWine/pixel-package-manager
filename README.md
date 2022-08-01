@@ -1,6 +1,6 @@
 # Pixel Package Manager
 
-## Language
+[SChinese 简体中文](readme/sc.md)
 
 ## Platform
 
