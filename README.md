@@ -6,11 +6,11 @@
 
 Available:
 
-- [x] macOS Intel x64
+- [x] macOS Intel **x64**
 
 Todo:
 
-- [ ] Windows x64
+- [ ] Windows 10 and later **x64**
 - [ ] macOS ARM64
 - [ ] Linux x64
 
